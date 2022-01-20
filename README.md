@@ -1,4 +1,4 @@
-## 👋 Hola, I'm [Sergio Peñate Alejo](https://github.com/SergioPA11) 
+## 👋 Hello, I'm [Sergio Peñate Alejo](https://github.com/SergioPA11) 
 <br />
 - 🔭 I’m a FullStack and web developer.
 <br/>
